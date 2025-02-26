@@ -1,1 +1,10 @@
 # Internship_tasks
+COMPANY: CODTECH IT SOLUTIONS
+NAME: Rakhshinda Nausheen
+DOMAIN: DATA ANALYTICS
+INTERN ID: CODHC01
+DURATION: 8 WEEKS(2 MONTHS)
+NUMBER OF TASKS: 4
+TASK -01: Big Data Analytics using Pyspark 
+TASK -02: Movie Reccomendation System( Predictive Analysis) using machine learning
+TASK -04: SENTIMENT ANALYSIS ON TEXTUAL DATA SUING NATURAL LANGUAGE PROCESSING TECHNIQUES 
