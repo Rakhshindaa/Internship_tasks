@@ -1,7 +1,5 @@
 # 📊 Internship Tasks – CodTech IT Solutions
-
-**Intern Name:** Rakhshinda Nausheen  
-**Intern ID:** CODHC01  
+ 
 **Domain:** Data Analytics  
 **Company:** CodTech IT Solutions  
 **Duration:** 8 Weeks (2 Months)  
